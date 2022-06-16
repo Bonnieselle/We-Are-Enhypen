@@ -1,0 +1,21 @@
+body{ 
+   background: 34495e;
+}
+.contenedor{
+     height: 420px;
+     width 50%;
+     diplay: flex;
+     margin: auto;
+     border-radius: 7px;
+     box-shadow: 0px 14px 32px 6px rgba(0, 0, 0, 0.5);
+     overflow: hidden;
+     box-sizing: border-box;
+}
+.contenedor .img{
+     width: 50%;
+}
+.contenedor .img img{
+      width: 100%;
+      vertical-align: top;
+}
+

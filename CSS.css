@@ -1,0 +1,34 @@
+body{
+     background-attachment:fixed;
+    }
+
+p.uno{text-align:center;
+  color:white;
+  font-size:25px;
+}
+div {
+  background-image: url;
+  background-attachment: fixed;
+  overflow: scroll;
+}
+
+div {
+  background-image: url;
+  background-attachment: fixed;
+  overflow: scroll;
+}
+
+
+p.cuatro{text-align:center;
+  color:white;
+  font-size:20px;
+}
+
+.a { empty-cells: hide; }
+.b { empty-cells: show; } 
+.c { empty-cells: hide; border-collapse: collapse;} 
+td,th { border: 1px solid black; }
+
+}
+
+

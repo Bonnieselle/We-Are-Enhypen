@@ -1,0 +1,21 @@
+body{
+     background-attachment:fixed;
+    }
+
+img:hover{
+transform:scale(1.5);
+
+}
+
+p.tres:hover{
+transform:scale(1.5);
+
+}
+
+div {
+  background-image: url;
+  background-attachment: fixed;
+  overflow: scroll;
+}
+
+div { 
